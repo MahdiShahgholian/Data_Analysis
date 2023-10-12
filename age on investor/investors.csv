@@ -1,0 +1,133 @@
+Sex,Age,Occupation,Education Level,Proportion Invest,Mutua Funds,Equity Market,Corporate Bonds,Government Bonds,Fixed Deposits,Public Provident Fund,Gold/SGB,Invest Stocks,Factors Investment,Investment Objective,Duration,Expected Return,Reason Equity,Reason MF,Reason Gsec,Reason FD,Source
+Male,39,Salaried,Post Graduate,10% - 20%,3,3,3,3,5,5,5,Yes,Returns,Growth,More than 5 years,10% - 20%,Power of compounding,Better Returns,Safe Investment,Fixed returns,Newspapers and Magazines
+Male,30,Salaried,Post Graduate,20% - 30%,3,6,2,2,2,2,3,Yes,Locking period,Capital appreciation,More than 5 years,10% - 20%,Capital Appreciation,Better Returns,Risk-free returns,Fixed returns,Internet
+Female,26,Salaried,Professional Degree,30% and above,7,4,3,3,4,4,4,Yes,Returns,Income,More than 5 years,10% - 20%,Liquidity,Better Returns,Risk-free returns,Fixed returns,Internet
+Male,32,Salaried,Post Graduate,10% - 20%,7,5,2,4,3,2,3,Yes,Returns,Capital appreciation,3-5 years,10% - 20%,Capital Appreciation,Funds Diversification,Risk-free returns,Risk free,Internet
+Male,28,Salaried,Professional Degree,30% and above,4,6,4,3,1,2,3,Yes,Returns,Capital appreciation,1-3 years,10% - 20%,Capital Appreciation,Tax Benefits,Tax Incentives,Fixed returns,Internet
+Male,35,Salaried,Post Graduate,20% - 30%,3,1,2,7,5,4,6,Yes,Returns,Capital appreciation,3-5 years,10% - 20%,Capital Appreciation,Better Returns,Tax Incentives,High Interest Rates,Newspapers and Magazines
+Female,24,Salaried,Post Graduate,30% and above,7,6,4,6,7,6,4,Yes,Returns,Capital appreciation,1-3 years,20% and above,Capital Appreciation,Funds Diversification,Risk-free returns,Risk free,Internet
+Female,36,Others,Others,20% - 30%,7,7,4,4,2,3,3,Yes,Returns,Capital appreciation,3-5 years,10% - 20%,Power of compounding,Better Returns,Safe Investment,Risk free,Internet
+Male,50,Salaried,Others,10% - 20%,6,4,3,7,6,6,5,No,Risk,Capital appreciation,More than 5 years,10% - 20%,Power of compounding,Funds Diversification,Safe Investment,Easy to invest in FD,Newspapers and Magazines
+Female,45,Salaried,Ph. D,5% - 10%,4,5,2,4,5,7,5,Yes,Returns,Growth,More than 5 years,10% - 20%,Capital Appreciation,Better Returns,Safe Investment,Fixed returns,Internet
+Male,41,Salaried,Post Graduate,5% - 10%,7,4,6,5,3,5,7,Yes,Risk,Capital appreciation,More than 5 years,10% - 20%,Dividend Income,Funds Diversification,Safe Investment,Risk free,Newspapers and Magazines
+Male,36,Salaried,Post Graduate,5% - 10%,7,6,1,6,1,2,2,Yes,Risk,Income,1-3 years,10% - 20%,Capital Appreciation,Funds Diversification,Risk-free returns,Risk free,Financial Consultant
+Male,25,Salaried,Post Graduate,5% - 10%,2,2,1,4,4,3,3,Yes,Locking period,Capital appreciation,1-3 years,10% - 20%,Capital Appreciation,Better Returns,Risk-free returns,High Interest Rates,Financial Consultant
+Male,24,Self-employed,Post Graduate,10% - 20%,2,6,3,2,2,4,6,Yes,Risk,Growth,More than 5 years,10% - 20%,Capital Appreciation,Better Returns,Tax Incentives,Risk free,Internet
+Female,35,Salaried,Post Graduate,10% - 20%,5,7,4,7,7,7,7,No,Returns,Growth,3-5 years,20% and above,Capital Appreciation,Tax Benefits,Risk-free returns,Easy to invest in FD,Financial Consultant
+Male,27,Salaried,Post Graduate,10% - 20%,6,6,4,4,5,7,5,Yes,Returns,Capital appreciation,1-3 years,10% - 20%,Power of compounding,Funds Diversification,Risk-free returns,Easy to invest in FD,Newspapers and Magazines
+Male,23,Salaried,Under Graduate,30% and above,5,7,3,2,1,4,3,Yes,Returns,Income,More than 5 years,10% - 20%,Dividend Income,Funds Diversification,Safe Investment,Fixed returns,Internet
+Male,27,Salaried,Post Graduate,30% and above,3,4,5,6,5,5,7,Yes,Returns,Capital appreciation,3-5 years,10% - 20%,Dividend Income,Better Returns,Risk-free returns,High Interest Rates,Internet
+Male,28,Self-employed,Under Graduate,10% - 20%,7,4,1,1,6,5,2,Yes,Returns,Growth,More than 5 years,10% - 20%,Capital Appreciation,Better Returns,Risk-free returns,Easy to invest in FD,Financial Consultant
+Male,25,Salaried,Post Graduate,5% - 10%,2,1,3,4,5,7,6,Yes,Risk,Income,1-3 years,5% - 10%,Capital Appreciation,Better Returns,Safe Investment,Risk free,Internet
+Female,28,Salaried,Post Graduate,5% - 10%,3,5,4,3,4,5,6,No,Returns,Income,More than 5 years,5% - 10%,Power of compounding,Better Returns,Risk-free returns,Fixed returns,Internet
+Male,34,Salaried,Others,5% - 10%,5,6,3,3,5,6,5,Yes,Returns,Growth,1-3 years,10% - 20%,Power of compounding,Tax Benefits,Tax Incentives,High Interest Rates,Internet
+Female,27,Salaried,Post Graduate,10% - 20%,7,6,4,4,5,4,6,Yes,Risk,Growth,1-3 years,5% - 10%,Power of compounding,Funds Diversification,Risk-free returns,Easy to invest in FD,Internet
+Female,31,Salaried,Post Graduate,5% - 10%,5,7,2,3,7,7,3,No,Returns,Income,3-5 years,10% - 20%,Liquidity,Better Returns,Safe Investment,Risk free,Internet
+Male,30,Salaried,Professional Degree,5% - 10%,6,7,4,3,2,3,4,Yes,Returns,Growth,3-5 years,10% - 20%,Power of compounding,Better Returns,Safe Investment,Risk free,Internet
+Male,34,Salaried,Post Graduate,5% - 10%,2,1,1,1,6,6,6,No,Returns,Income,1-3 years,20% and above,Capital Appreciation,Tax Benefits,Tax Incentives,Risk free,Internet
+Male,23,Salaried,Under Graduate,5% - 10%,4,4,5,4,3,5,5,Yes,Returns,Capital appreciation,1-3 years,20% and above,Capital Appreciation,Better Returns,Risk-free returns,Risk free,Internet
+Female,32,Others,Others,5% - 10%,4,2,2,2,5,3,6,No,Locking period,Income,1-3 years,5% - 10%,Liquidity,Better Returns,Safe Investment,Easy to invest in FD,Internet
+Male,24,Salaried,Post Graduate,10% - 20%,2,1,3,4,5,6,7,Yes,Returns,Income,3-5 years,10% - 20%,Capital Appreciation,Better Returns,Safe Investment,Risk free,Internet
+Male,25,Salaried,Post Graduate,5% - 10%,6,6,3,5,4,5,4,Yes,Returns,Capital appreciation,1-3 years,5% - 10%,Capital Appreciation,Funds Diversification,Safe Investment,Fixed returns,Internet
+Male,35,Salaried,Professional Degree,20% - 30%,7,5,5,5,4,4,4,Yes,Returns,Growth,More than 5 years,10% - 20%,Capital Appreciation,Better Returns,Safe Investment,Fixed returns,Internet
+Male,37,Salaried,Others,20% - 30%,7,2,1,1,1,1,2,Yes,Risk,Growth,More than 5 years,20% and above,Power of compounding,Better Returns,Risk-free returns,Easy to invest in FD,Financial Consultant
+Male,63,Self-employed,Post Graduate,30% and above,3,4,4,6,6,2,3,Yes,Returns,Capital appreciation,More than 5 years,5% - 10%,Capital Appreciation,Tax Benefits,Safe Investment,Risk free,Internet
+Male,34,Salaried,Post Graduate,20% - 30%,5,7,3,4,2,1,7,Yes,Returns,Growth,More than 5 years,20% and above,Power of compounding,Better Returns,Safe Investment,Risk free,Internet
+Male,42,Salaried,Post Graduate,30% and above,4,6,3,3,5,5,5,Yes,Returns,Capital appreciation,1-3 years,5% - 10%,Power of compounding,Tax Benefits,Risk-free returns,Easy to invest in FD,Internet
+Male,30,Salaried,Professional Degree,10% - 20%,5,4,4,4,2,5,5,No,Returns,Capital appreciation,More than 5 years,10% - 20%,Power of compounding,Better Returns,Risk-free returns,Fixed returns,Financial Consultant
+Male,22,Self-employed,Others,5% - 10%,7,5,1,4,3,7,5,Yes,Risk,Capital appreciation,3-5 years,10% - 20%,Liquidity,Better Returns,Risk-free returns,Easy to invest in FD,Internet
+Male,43,Self-employed,Post Graduate,30% and above,7,7,1,2,3,4,3,Yes,Risk,Capital appreciation,1-3 years,20% and above,Capital Appreciation,Funds Diversification,Safe Investment,Risk free,Internet
+Male,52,Self-employed,Post Graduate,10% - 20%,5,6,1,2,4,3,3,Yes,Returns,Capital appreciation,1-3 years,20% and above,Capital Appreciation,Better Returns,Risk-free returns,Fixed returns,Financial Consultant
+Male,27,Salaried,Post Graduate,30% and above,5,6,4,3,5,7,6,Yes,Returns,Income,1-3 years,10% - 20%,Power of compounding,Funds Diversification,Risk-free returns,Easy to invest in FD,Internet
+Male,40,Salaried,Post Graduate,10% - 20%,2,5,6,4,3,1,3,Yes,Returns,Growth,1-3 years,10% - 20%,Capital Appreciation,Better Returns,Risk-free returns,Risk free,Internet
+Female,29,Salaried,Post Graduate,10% - 20%,7,4,7,7,7,7,7,Yes,Returns,Capital appreciation,More than 5 years,10% - 20%,Capital Appreciation,Funds Diversification,Safe Investment,Risk free,Financial Consultant
+Male,34,Salaried,Professional Degree,10% - 20%,3,3,5,5,6,6,7,Yes,Returns,Income,1-3 years,20% and above,Power of compounding,Better Returns,Safe Investment,Risk free,Internet
+Male,31,Salaried,Professional Degree,10% - 20%,7,6,4,3,5,4,4,Yes,Returns,Growth,More than 5 years,10% - 20%,Capital Appreciation,Better Returns,Safe Investment,Risk free,Financial Consultant
+Male,37,Salaried,Post Graduate,10% - 20%,7,5,4,6,4,7,3,Yes,Risk,Income,3-5 years,5% - 10%,Liquidity,Better Returns,Safe Investment,Risk free,Internet
+Male,39,Salaried,Post Graduate,10% - 20%,3,6,5,6,6,1,5,No,Locking period,Growth,1-3 years,5% - 10%,Capital Appreciation,Funds Diversification,Risk-free returns,Fixed returns,Internet
+Male,27,Self-employed,Under Graduate,10% - 20%,1,5,1,1,1,1,2,Yes,Returns,Growth,1-3 years,10% - 20%,Power of compounding,Funds Diversification,Risk-free returns,Risk free,Internet
+Male,31,Salaried,Professional Degree,10% - 20%,7,3,1,1,4,5,3,Yes,Returns,Capital appreciation,1-3 years,10% - 20%,Capital Appreciation,Funds Diversification,Safe Investment,Risk free,Financial Consultant
+Male,28,Self-employed,Under Graduate,5% - 10%,1,7,1,1,1,1,1,Yes,Returns,Income,1-3 years,5% - 10%,Capital Appreciation,Better Returns,Safe Investment,Fixed returns,Internet
+Male,35,Salaried,Professional Degree,10% - 20%,2,1,4,5,6,7,3,Yes,Risk,Capital appreciation,1-3 years,20% and above,Capital Appreciation,Tax Benefits,Safe Investment,Fixed returns,Internet
+Male,50,Salaried,Post Graduate,20% - 30%,7,7,1,4,4,5,7,Yes,Risk,Income,1-3 years,10% - 20%,Power of compounding,Tax Benefits,Tax Incentives,High Interest Rates,Television
+Male,26,Salaried,Professional Degree,5% - 10%,6,2,4,7,2,5,4,No,Returns,Income,More than 5 years,10% - 20%,Dividend Income,Tax Benefits,Tax Incentives,Risk free,Financial Consultant
+Female,34,Salaried,Post Graduate,5% - 10%,5,6,1,2,1,5,6,Yes,Returns,Growth,More than 5 years,5% - 10%,Power of compounding,Tax Benefits,Safe Investment,Fixed returns,Internet
+Male,68,Self-employed,Ph. D,30% and above,1,6,1,4,6,7,1,Yes,Risk,Capital appreciation,More than 5 years,10% - 20%,Power of compounding,Funds Diversification,Safe Investment,Easy to invest in FD,Newspapers and Magazines
+Male,29,Salaried,Post Graduate,10% - 20%,6,5,4,4,5,6,3,Yes,Returns,Growth,3-5 years,10% - 20%,Power of compounding,Funds Diversification,Risk-free returns,Risk free,Internet
+Male,69,Others,Professional Degree,30% and above,6,5,2,2,1,4,1,Yes,Returns,Growth,More than 5 years,10% - 20%,Power of compounding,Funds Diversification,Tax Incentives,High Interest Rates,Financial Consultant
+Male,21,Salaried,Under Graduate,30% and above,5,4,5,5,3,3,3,Yes,Returns,Capital appreciation,3-5 years,10% - 20%,Capital Appreciation,Better Returns,Risk-free returns,Risk free,Internet
+Male,60,Self-employed,Post Graduate,10% - 20%,2,2,4,3,4,4,2,No,Returns,Income,3-5 years,20% and above,Dividend Income,Tax Benefits,Safe Investment,Risk free,Financial Consultant
+Male,52,Salaried,Post Graduate,5% - 10%,6,2,4,6,5,5,3,No,Risk,Income,3-5 years,5% - 10%,Liquidity,Better Returns,Safe Investment,Risk free,Internet
+Male,27,Salaried,Under Graduate,10% - 20%,4,4,5,6,5,5,3,No,Returns,Growth,1-3 years,20% and above,Power of compounding,Better Returns,Safe Investment,Fixed returns,Internet
+Male,67,Self-employed,Post Graduate,30% and above,1,7,2,2,1,7,1,Yes,Returns,Capital appreciation,1-3 years,20% and above,Capital Appreciation,Tax Benefits,Risk-free returns,Risk free,Financial Consultant
+Male,24,Student,Under Graduate,5% - 10%,3,2,3,3,1,2,6,Yes,Returns,Growth,1-3 years,10% - 20%,Dividend Income,Tax Benefits,Safe Investment,High Interest Rates,Newspapers and Magazines
+Male,28,Salaried,Post Graduate,30% and above,7,5,3,1,3,5,3,Yes,Returns,Capital appreciation,More than 5 years,20% and above,Capital Appreciation,Funds Diversification,Risk-free returns,Risk free,Internet
+Male,25,Others,Post Graduate,5% - 10%,1,1,2,2,1,1,1,No,Returns,Capital appreciation,1-3 years,5% - 10%,Capital Appreciation,Better Returns,Safe Investment,Fixed returns,Financial Consultant
+Male,27,Others,Post Graduate,20% - 30%,1,1,1,1,1,1,3,Yes,Returns,Capital appreciation,1-3 years,5% - 10%,Capital Appreciation,Better Returns,Safe Investment,High Interest Rates,Financial Consultant
+Male,38,Salaried,Under Graduate,20% - 30%,5,3,6,7,7,7,6,Yes,Returns,Growth,More than 5 years,5% - 10%,Dividend Income,Funds Diversification,Risk-free returns,Risk free,Financial Consultant
+Female,33,Self-employed,Post Graduate,5% - 10%,1,7,1,2,1,7,7,No,Returns,Growth,1-3 years,5% - 10%,Dividend Income,Better Returns,Safe Investment,Fixed returns,Internet
+Male,33,Salaried,Post Graduate,10% - 20%,3,3,3,3,3,3,3,Yes,Returns,Income,1-3 years,10% - 20%,Liquidity,Better Returns,Safe Investment,High Interest Rates,Financial Consultant
+Female,31,Salaried,Professional Degree,10% - 20%,7,6,2,4,3,4,1,Yes,Returns,Capital appreciation,3-5 years,20% and above,Liquidity,Tax Benefits,Safe Investment,Risk free,Newspapers and Magazines
+Male,28,Salaried,Others,5% - 10%,5,2,3,5,4,3,5,No,Returns,Income,1-3 years,5% - 10%,Capital Appreciation,Better Returns,Safe Investment,Fixed returns,Internet
+Male,31,Others,Others,5% - 10%,1,7,5,5,2,2,7,Yes,Risk,Capital appreciation,1-3 years,5% - 10%,Capital Appreciation,Better Returns,Tax Incentives,Fixed returns,Internet
+Male,27,Salaried,Post Graduate,10% - 20%,7,5,3,3,7,7,3,Yes,Returns,Income,1-3 years,20% and above,Capital Appreciation,Tax Benefits,Tax Incentives,Easy to invest in FD,Internet
+Female,32,Salaried,Post Graduate,5% - 10%,5,4,3,6,6,5,4,No,Returns,Growth,3-5 years,20% and above,Capital Appreciation,Tax Benefits,Risk-free returns,Fixed returns,Financial Consultant
+Female,27,Salaried,Post Graduate,10% - 20%,5,5,4,5,7,4,6,Yes,Returns,Income,3-5 years,20% and above,Capital Appreciation,Better Returns,Tax Incentives,Fixed returns,Internet
+Female,30,Salaried,Post Graduate,5% - 10%,4,4,2,2,2,4,3,No,Risk,Income,1-3 years,10% - 20%,Dividend Income,Tax Benefits,Safe Investment,Fixed returns,Financial Consultant
+Female,30,Salaried,Professional Degree,10% - 20%,6,4,5,5,3,5,4,Yes,Returns,Growth,1-3 years,5% - 10%,Capital Appreciation,Better Returns,Risk-free returns,Risk free,Financial Consultant
+Female,39,Salaried,Post Graduate,5% - 10%,4,4,3,3,6,5,3,No,Returns,Growth,More than 5 years,20% and above,Liquidity,Better Returns,Safe Investment,Risk free,Internet
+Female,36,Salaried,Post Graduate,5% - 10%,6,4,4,5,5,7,6,Yes,Returns,Income,More than 5 years,10% - 20%,Dividend Income,Better Returns,Tax Incentives,Risk free,Internet
+Male,32,Salaried,Post Graduate,20% - 30%,7,5,3,3,3,4,5,Yes,Returns,Capital appreciation,3-5 years,10% - 20%,Power of compounding,Funds Diversification,Tax Incentives,Risk free,Internet
+Male,30,Salaried,Professional Degree,5% - 10%,7,4,2,2,5,5,1,Yes,Locking period,Growth,More than 5 years,10% - 20%,Power of compounding,Tax Benefits,Safe Investment,Fixed returns,Internet
+Male,40,Salaried,Post Graduate,10% - 20%,6,3,4,4,4,7,5,No,Risk,Growth,3-5 years,10% - 20%,Capital Appreciation,Better Returns,Safe Investment,Risk free,Internet
+Female,30,Others,Others,5% - 10%,3,3,5,5,6,7,4,No,Returns,Income,3-5 years,20% and above,Dividend Income,Better Returns,Safe Investment,Risk free,Internet
+Male,38,Salaried,Post Graduate,30% and above,7,7,2,3,5,7,5,Yes,Returns,Growth,More than 5 years,10% - 20%,Capital Appreciation,Better Returns,Safe Investment,Risk free,Internet
+Female,23,Salaried,Others,5% - 10%,5,4,4,6,5,7,7,No,Returns,Growth,3-5 years,20% and above,Dividend Income,Better Returns,Safe Investment,Risk free,Internet
+Male,39,Salaried,Others,20% - 30%,6,6,5,5,4,6,7,Yes,Returns,Growth,More than 5 years,20% and above,Liquidity,Funds Diversification,Safe Investment,Fixed returns,Internet
+Male,42,Salaried,Post Graduate,5% - 10%,6,6,2,2,1,5,6,Yes,Returns,Growth,More than 5 years,10% - 20%,Power of compounding,Better Returns,Risk-free returns,Easy to invest in FD,Newspapers and Magazines
+Female,42,Salaried,Post Graduate,30% and above,4,5,6,5,3,4,6,Yes,Returns,Growth,1-3 years,20% and above,Dividend Income,Tax Benefits,Risk-free returns,Risk free,Newspapers and Magazines
+Female,54,Salaried,Post Graduate,20% - 30%,7,4,3,2,6,7,3,No,Risk,Growth,1-3 years,5% - 10%,Liquidity,Better Returns,Tax Incentives,Fixed returns,Financial Consultant
+Male,37,Salaried,Post Graduate,10% - 20%,6,5,4,5,5,5,6,Yes,Returns,Capital appreciation,More than 5 years,10% - 20%,Liquidity,Funds Diversification,Risk-free returns,Risk free,Internet
+Female,38,Salaried,Post Graduate,10% - 20%,4,3,2,1,1,1,2,No,Returns,Growth,1-3 years,20% and above,Power of compounding,Better Returns,Risk-free returns,Fixed returns,Internet
+Male,54,Self-employed,Post Graduate,10% - 20%,5,2,3,5,6,6,4,No,Returns,Income,3-5 years,10% - 20%,Dividend Income,Better Returns,Risk-free returns,Risk free,Newspapers and Magazines
+Male,26,Salaried,Under Graduate,10% - 20%,5,5,3,7,6,4,5,Yes,Locking period,Income,3-5 years,10% - 20%,Dividend Income,Better Returns,Safe Investment,Fixed returns,Financial Consultant
+Male,34,Self-employed,Post Graduate,20% - 30%,5,6,1,6,4,7,5,Yes,Risk,Capital appreciation,More than 5 years,20% and above,Capital Appreciation,Funds Diversification,Risk-free returns,Fixed returns,Financial Consultant
+Female,45,Salaried,Ph. D,20% - 30%,5,5,4,6,3,6,6,Yes,Returns,Growth,More than 5 years,20% and above,Power of compounding,Funds Diversification,Risk-free returns,Risk free,Newspapers and Magazines
+Male,30,Salaried,Post Graduate,5% - 10%,4,7,1,2,6,7,5,Yes,Risk,Capital appreciation,3-5 years,5% - 10%,Power of compounding,Better Returns,Tax Incentives,Fixed returns,Internet
+Male,43,Salaried,Others,5% - 10%,4,4,2,2,6,5,2,No,Risk,Capital appreciation,More than 5 years,10% - 20%,Capital Appreciation,Tax Benefits,Safe Investment,Fixed returns,Internet
+Female,35,Salaried,Professional Degree,20% - 30%,4,3,5,5,6,6,5,Yes,Returns,Income,More than 5 years,20% and above,Dividend Income,Better Returns,Risk-free returns,Risk free,Financial Consultant
+Female,30,Salaried,Post Graduate,10% - 20%,5,2,3,3,6,7,6,No,Returns,Growth,1-3 years,10% - 20%,Capital Appreciation,Tax Benefits,Safe Investment,Fixed returns,Internet
+Female,25,Salaried,Post Graduate,10% - 20%,2,2,4,3,3,2,4,Yes,Locking period,Capital appreciation,1-3 years,5% - 10%,Capital Appreciation,Tax Benefits,Tax Incentives,Fixed returns,Financial Consultant
+Female,23,Salaried,Post Graduate,10% - 20%,2,1,1,4,6,3,6,No,Returns,Income,1-3 years,10% - 20%,Dividend Income,Tax Benefits,Safe Investment,Fixed returns,Internet
+Female,24,Salaried,Post Graduate,20% - 30%,5,2,3,4,5,4,4,No,Returns,Income,1-3 years,5% - 10%,Dividend Income,Better Returns,Risk-free returns,Risk free,Financial Consultant
+Male,28,Salaried,Professional Degree,20% - 30%,6,6,5,7,4,7,7,No,Returns,Growth,3-5 years,10% - 20%,Dividend Income,Funds Diversification,Risk-free returns,Fixed returns,Internet
+Female,35,Salaried,Post Graduate,5% - 10%,7,4,4,4,7,7,6,No,Returns,Growth,More than 5 years,20% and above,Capital Appreciation,Better Returns,Safe Investment,Fixed returns,Newspapers and Magazines
+Female,26,Salaried,Professional Degree,5% - 10%,1,1,1,1,5,1,5,No,Risk,Growth,More than 5 years,20% and above,Capital Appreciation,Better Returns,Safe Investment,High Interest Rates,Internet
+Female,39,Salaried,Professional Degree,10% - 20%,7,5,5,4,4,4,5,Yes,Returns,Growth,3-5 years,10% - 20%,Capital Appreciation,Better Returns,Safe Investment,Risk free,Financial Consultant
+Male,31,Salaried,Post Graduate,30% and above,7,5,4,3,2,6,2,No,Returns,Growth,More than 5 years,10% - 20%,Power of compounding,Better Returns,Risk-free returns,Fixed returns,Internet
+Male,70,Self-employed,Professional Degree,5% - 10%,3,4,4,6,6,7,4,Yes,Risk,Income,1-3 years,10% - 20%,Capital Appreciation,Funds Diversification,Safe Investment,Fixed returns,Newspapers and Magazines
+Male,40,Salaried,Professional Degree,5% - 10%,4,4,4,4,4,7,4,No,Risk,Capital appreciation,3-5 years,10% - 20%,Power of compounding,Funds Diversification,Risk-free returns,Fixed returns,Newspapers and Magazines
+Female,23,Student,Others,10% - 20%,6,3,6,7,4,4,5,Yes,Returns,Growth,3-5 years,10% - 20%,Capital Appreciation,Funds Diversification,Risk-free returns,Fixed returns,Internet
+Female,28,Salaried,Professional Degree,10% - 20%,7,2,4,6,5,6,6,No,Returns,Income,1-3 years,20% and above,Liquidity,Better Returns,Risk-free returns,Easy to invest in FD,Internet
+Female,35,Salaried,Post Graduate,10% - 20%,5,3,2,3,6,7,7,Yes,Returns,Capital appreciation,1-3 years,10% - 20%,Capital Appreciation,Better Returns,Risk-free returns,Fixed returns,Internet
+Male,57,Salaried,Post Graduate,20% - 30%,7,6,4,5,1,3,3,Yes,Returns,Capital appreciation,3-5 years,10% - 20%,Capital Appreciation,Better Returns,Risk-free returns,Fixed returns,Newspapers and Magazines
+Male,23,Salaried,Post Graduate,20% - 30%,5,6,4,3,3,4,4,Yes,Returns,Growth,3-5 years,20% and above,Power of compounding,Tax Benefits,Safe Investment,Risk free,Newspapers and Magazines
+Male,21,Student,Professional Degree,5% - 10%,7,5,5,5,4,6,6,Yes,Returns,Capital appreciation,1-3 years,10% - 20%,Power of compounding,Better Returns,Risk-free returns,Risk free,Internet
+Male,19,Student,Under Graduate,20% - 30%,5,2,7,5,3,6,5,Yes,Returns,Growth,More than 5 years,10% - 20%,Dividend Income,Funds Diversification,Risk-free returns,Risk free,Newspapers and Magazines
+Male,20,Student,Under Graduate,5% - 10%,5,5,3,5,5,5,4,Yes,Risk,Capital appreciation,1-3 years,20% and above,Capital Appreciation,Better Returns,Safe Investment,Fixed returns,Internet
+Male,19,Student,Under Graduate,5% - 10%,5,6,6,7,7,5,5,No,Returns,Income,1-3 years,10% - 20%,Liquidity,Better Returns,Safe Investment,Fixed returns,Internet
+Male,24,Student,Post Graduate,5% - 10%,7,7,5,7,7,7,7,Yes,Returns,Capital appreciation,3-5 years,10% - 20%,Capital Appreciation,Tax Benefits,Safe Investment,Risk free,Internet
+Male,20,Student,Under Graduate,10% - 20%,7,5,4,2,2,3,4,Yes,Returns,Capital appreciation,1-3 years,10% - 20%,Dividend Income,Tax Benefits,Safe Investment,Fixed returns,Internet
+Male,21,Student,Under Graduate,5% - 10%,7,7,6,4,2,4,7,No,Returns,Capital appreciation,1-3 years,20% and above,Capital Appreciation,Better Returns,Tax Incentives,Risk free,Financial Consultant
+Male,18,Student,Under Graduate,20% - 30%,4,7,6,6,5,5,5,Yes,Returns,Income,3-5 years,10% - 20%,Dividend Income,Tax Benefits,Tax Incentives,Risk free,Internet
+Male,18,Student,Under Graduate,10% - 20%,6,6,5,6,6,6,6,No,Returns,Growth,More than 5 years,10% - 20%,Power of compounding,Tax Benefits,Risk-free returns,Risk free,Newspapers and Magazines
+Male,18,Student,Under Graduate,20% - 30%,5,5,4,6,3,3,2,No,Returns,Capital appreciation,3-5 years,20% and above,Capital Appreciation,Tax Benefits,Safe Investment,High Interest Rates,Internet
+Male,22,Student,Post Graduate,5% - 10%,4,6,4,4,2,5,5,Yes,Returns,Capital appreciation,1-3 years,20% and above,Capital Appreciation,Funds Diversification,Safe Investment,Fixed returns,Financial Consultant
+Male,27,Student,Post Graduate,5% - 10%,7,7,7,7,7,7,7,Yes,Locking period,Income,More than 5 years,10% - 20%,Power of compounding,Tax Benefits,Safe Investment,Easy to invest in FD,Financial Consultant
+Male,23,Student,Post Graduate,10% - 20%,4,5,4,5,4,6,5,Yes,Returns,Capital appreciation,3-5 years,10% - 20%,Power of compounding,Tax Benefits,Risk-free returns,High Interest Rates,Financial Consultant
+Male,19,Student,Under Graduate,10% - 20%,4,5,5,4,2,3,4,No,Returns,Capital appreciation,3-5 years,20% and above,Dividend Income,Better Returns,Safe Investment,Easy to invest in FD,Internet
+Male,25,Salaried,Post Graduate,20% - 30%,4,6,6,7,7,7,7,No,Returns,Capital appreciation,1-3 years,10% - 20%,Power of compounding,Tax Benefits,Safe Investment,Fixed returns,Internet
+Female,42,Self-employed,Others,30% and above,3,6,2,7,4,6,5,Yes,Risk,Capital appreciation,3-5 years,10% - 20%,Capital Appreciation,Tax Benefits,Safe Investment,Fixed returns,Financial Consultant
+Male,30,Salaried,Post Graduate,5% - 10%,5,5,4,5,6,4,5,No,Returns,Income,More than 5 years,10% - 20%,Dividend Income,Better Returns,Risk-free returns,High Interest Rates,Internet
+Female,33,Salaried,Post Graduate,20% - 30%,5,3,4,6,5,3,5,No,Returns,Capital appreciation,3-5 years,10% - 20%,Capital Appreciation,Better Returns,Risk-free returns,Fixed returns,Newspapers and Magazines
+Female,25,Student,Under Graduate,10% - 20%,4,5,3,3,4,7,5,Yes,Returns,Capital appreciation,1-3 years,10% - 20%,Power of compounding,Funds Diversification,Risk-free returns,Fixed returns,Newspapers and Magazines
